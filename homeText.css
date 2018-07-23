@@ -1,0 +1,28 @@
+p {
+  text-align: center;
+  position: fixed;
+  bottom: 175;
+  right: 250;
+  left: 250;
+  top: 150;
+  font-family: "Impact";
+  font-size: 18px;
+}
+a {
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  right: 250;
+  left: 250;
+  top: 40;
+  font-family: "Impact";
+  font-size: 18px;
+}
+b {
+  font-family: "Impact";
+  font-size: 18px;
+}
+fieldset{
+    font-family: "Impact";
+    font-size: 18px;
+}

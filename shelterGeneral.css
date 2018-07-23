@@ -1,0 +1,24 @@
+body{
+  background-image: url("homebackground.png");
+  background-color:#D6EAF8  ;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: top;
+  resize: both;
+  height: 720px !important;
+  overflow: scroll;
+
+}
+.button{
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+  font-size: 12px;
+  font-family: "Impact";
+}
+l {
+  font-size: 23px;
+}
